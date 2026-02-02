@@ -1,0 +1,9 @@
+<mvc:View controller="sap.training.exc.view.App"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m">
+
+  <Text text="Hello World"/>
+
+  <Page title="Teste"></Page>
+
+</mvc:View>
